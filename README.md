@@ -1,1 +1,1 @@
-# Exploratory Data Analysis V2
+# Exploratory Data Analysis v2
